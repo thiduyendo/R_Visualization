@@ -32,13 +32,15 @@ If you want to contribute to this project, follow these guidelines:
 Click on the "Fork" button at the top right of the repository page.
 
 ### Create a New Branch:
-```git checkout -b my-new-feature
+```
+git checkout -b my-new-feature
 ```
 ### Make Changes:
 Make your changes and test them.
 
 ### Commit Your Changes:
-```git commit -am 'Add new feature'
+```
+git commit -am 'Add new feature'
 ```
 
 ### Push to the Branch:
