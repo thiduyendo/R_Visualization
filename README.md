@@ -24,7 +24,7 @@ install.packages(c("ggsignif", "extrafont", "cowplot", "readxl", "ggplot2", "res
 ```
 ## Update the read_excel path in the script to point to your data file.
 - Run the script in R. 
-- 
+- Ada_GA_comparison_Training.xlsx is an example of the data used for plotting the plot
 
 ## Contributing
 If you want to contribute to this project, follow these guidelines:
