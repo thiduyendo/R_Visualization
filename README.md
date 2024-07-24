@@ -3,6 +3,7 @@
 
 ## Description
 This repository contains R scripts to generate boxplots comparing performance metrics of different models.
+![Supplementary Figure 1](https://github.com/user-attachments/assets/1fb22857-cd94-42bd-a9c3-60bce115675c)
 
 ## Requirements
 - R
