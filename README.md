@@ -44,5 +44,9 @@ git commit -am 'Add new feature'
 ```
 
 ### Push to the Branch:
+```
 git push origin my-new-feature
+```
 
+### Create a Pull Request:
+Go to the repository page and click on "New Pull Request."
